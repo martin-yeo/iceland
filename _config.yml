@@ -2,8 +2,8 @@
 # Site
 
 title: Frisco Template
-url: "https://Github/yan754.Iceland"
-baseurl:
+url: "https://yan754.github.io/"
+baseurl:"/-Iceland"
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
